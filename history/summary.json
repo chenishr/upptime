@@ -4,9 +4,9 @@
     "url": "https://blog.chenishr.com",
     "icon": "https://favicons.githubusercontent.com/blog.chenishr.com",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 2074,
     "timeMonth": 1917,
     "timeYear": 1917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-31": 0
+    }
   }
 ]
