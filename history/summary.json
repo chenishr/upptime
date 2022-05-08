@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/blog.chenishr.com",
     "slug": "blog",
     "status": "up",
-    "uptime": "82.85%",
+    "uptime": "82.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "40.42%",
-    "uptimeYear": "86.35%",
-    "time": 1751,
-    "timeDay": 1669,
-    "timeWeek": 1359,
-    "timeMonth": 1425,
+    "uptimeMonth": "43.72%",
+    "uptimeYear": "86.36%",
+    "time": 1750,
+    "timeDay": 1518,
+    "timeWeek": 1387,
+    "timeMonth": 1431,
     "timeYear": 1707,
     "dailyMinutesDown": {
       "2022-04-25": 255,
@@ -112,8 +112,7 @@
       "2021-05-12": 25,
       "2021-05-11": 21,
       "2021-05-10": 124,
-      "2021-05-09": 86,
-      "2021-05-08": 33
+      "2021-05-09": 86
     }
   }
 ]
