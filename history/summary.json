@@ -4,7 +4,7 @@
     "url": "https://blog.chenishr.com",
     "icon": "https://favicons.githubusercontent.com/blog.chenishr.com",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "91.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
@@ -16,6 +16,7 @@
     "timeMonth": 1526,
     "timeYear": 1685,
     "dailyMinutesDown": {
+      "2022-07-24": 0,
       "2022-07-18": 32,
       "2022-07-06": 41,
       "2022-07-05": 19,
