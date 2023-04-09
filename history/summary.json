@@ -6,17 +6,16 @@
     "slug": "blog",
     "status": "up",
     "uptime": "91.53%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "87.43%",
-    "time": 1684,
-    "timeDay": 2240,
-    "timeWeek": 1840,
-    "timeMonth": 1849,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "87.45%",
+    "time": 1685,
+    "timeDay": 2254,
+    "timeWeek": 1845,
+    "timeMonth": 1845,
     "timeYear": 1708,
     "dailyMinutesDown": {
-      "2023-04-08": 11,
       "2023-03-18": 23,
       "2023-03-11": 17,
       "2023-03-05": 19,
@@ -97,8 +96,7 @@
       "2022-04-13": 1440,
       "2022-04-12": 1440,
       "2022-04-11": 1440,
-      "2022-04-10": 1440,
-      "2022-04-09": 1440
+      "2022-04-10": 1440
     }
   }
 ]
