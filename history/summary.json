@@ -4,7 +4,7 @@
     "url": "https://blog.chenishr.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.chenishr.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "91.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1871,
     "timeYear": 1733,
     "dailyMinutesDown": {
+      "2023-05-18": 0,
       "2023-05-08": 33,
       "2023-05-06": 21,
       "2023-04-29": 22,
