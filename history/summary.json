@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.chenishr.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "91.95%",
+    "uptime": "91.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "91.17%",
-    "time": 1735,
-    "timeDay": 1641,
-    "timeWeek": 1772,
-    "timeMonth": 1747,
-    "timeYear": 1763,
+    "uptimeYear": "91.44%",
+    "time": 1736,
+    "timeDay": 1878,
+    "timeWeek": 1775,
+    "timeMonth": 1759,
+    "timeYear": 1764,
     "dailyMinutesDown": {
       "2023-07-04": 18,
       "2023-06-24": 20,
@@ -64,8 +64,7 @@
       "2022-07-31": 1440,
       "2022-07-30": 1440,
       "2022-07-29": 1440,
-      "2022-07-28": 1440,
-      "2022-07-27": 1440
+      "2022-07-28": 1440
     }
   }
 ]
