@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.chenishr.com.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "90.04%",
+    "uptime": "89.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "24.99%",
-    "uptimeYear": "89.33%",
+    "uptimeMonth": "21.70%",
+    "uptimeYear": "89.06%",
     "time": 1730,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1526,
-    "timeYear": 1779,
+    "timeMonth": 1541,
+    "timeYear": 1780,
     "dailyMinutesDown": {
-      "2023-09-13": 58,
+      "2023-09-14": 57,
+      "2023-09-13": 1440,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -72,8 +73,7 @@
       "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
-      "2022-11-08": 727,
-      "2022-09-14": 58
+      "2022-11-08": 727
     }
   }
 ]
